@@ -14,7 +14,7 @@
  * ( location                  :
  *     encyclopedia-globus-master
  *       egs-1.0.0
- *         (this file)
+ *         test.js
  * )
  * 
  * The EGS 1.0.0 script is released to you under stipulation that you p-
