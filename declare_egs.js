@@ -11,6 +11,11 @@
  * ( author                    : GitHub : [encyclopedia-globus-master] )
  * ( description               : declare $egs variable                 )
  * ( date uploaded             : 16 / 6 / 2020 - ( DD / MM / YYYY )    )
+ * ( location                  :
+ *     encyclopedia-globus-master
+ *       egs-1.0.0
+ *         declare_egs.js
+ * )
  * 
  * The EGS 1.0.0 script is released to you under stipulation that you p-
  * rovide adequate acknowledgement of your use of these files. It is al-
